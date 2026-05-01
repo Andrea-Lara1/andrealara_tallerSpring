@@ -4,6 +4,7 @@ El taller consiste en el desarrollo de una API REST usando Spring Boot, en la ca
 usando controllers, service, repository y model.
 
 *Los datos se almacenan en ArrayList
+
 *Al reiniciar la aplicación la información se pierde
 -----------------------------
 Punto 1
@@ -25,4 +26,5 @@ http://localhost:8080/swagger-ui/index.html#/usuario-controller/listar
 
 Metodo Delete
 http://localhost:8080/swagger-ui/index.html#/usuario-controller/eliminar
+
 -------------------------------
